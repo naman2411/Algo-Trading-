@@ -21,10 +21,6 @@ Determine the "worst time" for each stock, which is the point after which the st
 ### Optimization
 Utilize the collected data to optimize the entry and exit times for stocks, aiming to maximize returns.
 
-## File Structure
-- **data/**: Contains the raw data files.
-- **scripts/**: Includes scripts for data processing and calculation.
-- **results/**: Stores the output results and visualizations.
 
 ## Conclusion
 By implementing these strategies and optimizations, we aim to enhance the profitability of intraday trading for the selected stocks.
